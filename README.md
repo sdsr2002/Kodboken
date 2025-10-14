@@ -8,7 +8,7 @@ Här samlar vi uppgifter och övningar till Kodboken. Du kan bidra med egna Scra
 - `Python/` – Pythonuppgifter (Kod, steg-för-steg)
 - `templates/` – Mallar du kan kopiera
 
-## 🪄 Så bidrar du
+## Så bidrar du
 1. Forka detta repo.
 2. Skapa en ny mapp under rätt kategori.
 3. Följ mallen i `templates/`.

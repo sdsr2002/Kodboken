@@ -11,8 +11,6 @@ Exempel:
 Lista gärna vad som är bra att kunna innan man börjar.  
 Exempel:
 - Hur man startar Python
-- Vad en kodrad är
-- Enkel textutskrift med `print()`
 
 ---
 
@@ -22,13 +20,14 @@ Här skriver du uppgiften som eleven ska följa.
 Varje steg ska innehålla:
 - En **kort instruktion** till eleven
 - En **kodruta** (med kodexempel)
-- En **pedagogisk förklaring** under
+- En **pedagogisk förklaring**
 
 ---
+## Exempel
 
 ### Steg 1: Skriv ut din första rad med `print()`
 
-Be eleven skriva följande kod:
+Dags att skriva vår första kodrad!
 
 ```python
 print("Hej världen!")

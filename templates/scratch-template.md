@@ -12,10 +12,6 @@ Beskriv kort vad eleven lär sig i uppgiften.
 
 ## Förkunskaper
 Lista gärna vad som är bra att kunna innan man börjar.  
-**Exempel:**
-- Hur man startar Scratch  
-- Hur man lägger till block  
-- Hur man kör sitt projekt  
 
 ---
 

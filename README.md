@@ -4,8 +4,8 @@ Välkommen!
 Här samlar vi uppgifter och övningar till Kodboken. Du kan bidra med egna Scratch- eller Pythonprojekt.
 
 ## 📂 Struktur
-- `scratch/` – Scratchuppgifter (bilder, steg-för-steg)
-- `python/` – Pythonuppgifter (Kod, steg-för-steg)
+- `Scratch/` – Scratchuppgifter (bilder, steg-för-steg)
+- `Python/` – Pythonuppgifter (Kod, steg-för-steg)
 - `templates/` – Mallar du kan kopiera
 
 ## 🪄 Så bidrar du

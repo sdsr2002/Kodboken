@@ -1,30 +1,53 @@
-# Scratchuppgift: [Uppgiftens namn] - [Ditt namn]
+# Scratchuppgift: [Uppgiftens namn]  
+**Av:** [Ditt namn]
 
-## Svårighetsgrad
-(Nivå 1-4)
-
-## Beskrivning av spel
-Kort beskrivning av vad det är för typ av spel och länk till Scratch projekt.
+---
 
 ## Syfte
-Kort beskrivning av vad eleven lär sig.
+Beskriv kort vad eleven lär sig i uppgiften.  
+**Exempel:**  
+> I den här uppgiften lär sig eleven att använda loopar för att upprepa kod flera gånger i Scratch.
+
+---
 
 ## Förkunskaper
-(t.ex. Loops, Händelser, Villkor)
+Lista gärna vad som är bra att kunna innan man börjar.  
+**Exempel:**
+- Hur man startar Scratch  
+- Hur man lägger till block  
+- Hur man kör sitt projekt  
+
+---
 
 ## Steg-för-steg
-1. **Starta ett nytt projekt i Scratch.**
-2. Förklara vad som ska göras i varje steg.
-   - Lägg in bilder på koden:
-     ![Exempel på kodblock](steg1.png)
 
-3. Beskriv resultatet efter detta steg.
-   ![Resultatbild](resultat.png)
+Här skriver du uppgiften som eleven ska följa.  
+Varje steg ska innehålla:
+- En **kort instruktion** till eleven  
+- En **bild** på blocken (eller flera)  
+- En **pedagogisk förklaring** under bilden  
 
-## Extra utmaning
-Förslag på hur eleven kan bygga vidare på sin idé.
+---
 
-## Lärandemål
-- Eleven förstår …
-- Eleven kan använda …
-- Eleven tränar på …
+### Steg 1: Gör så att katten säger hej
+
+Dra in blocket "när grön flagg klickas på" och "säg hej i 2 sekunder":
+
+![Bild på blocket "när gröna flaggan klickas" och "säg Hej! i 2 sekunder"](link-till-bild-här.png)
+
+**Förklaring:**  
+När man klickar på den gröna flaggan körs koden.  
+Blocket “säg Hej! i 2 sekunder” gör att figuren visar en pratbubbla i 2 sekunder.  
+Testa att ändra texten och tiden för att se vad som händer!
+
+---
+
+### Steg 2: Lägg till rörelse
+
+
+
+---
+
+### Extra utmaning
+Uppmuntra eleverna att experimentera genom att ändra värdet på variabler eller lägga till något eget
+
